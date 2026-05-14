@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Local SQLite database files
+*.db
+*.sqlite3
+inventory.db
+
+# Log files
+*.log
+logs/
+data_processing.log
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
