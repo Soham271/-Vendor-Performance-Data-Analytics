@@ -17,6 +17,10 @@ inventory.db
 logs/
 data_processing.log
 
+# Large raw data files to keep out of Git
+data/purchases.csv
+data/sales.csv
+
 # VS Code settings
 .vscode/
 
